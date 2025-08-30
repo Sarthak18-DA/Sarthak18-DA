@@ -2,7 +2,7 @@
 
 - 🔎 **Data Analyst** sharing about learnings and projects I built.
 - 🎓 Studied **Computer Science** and **Data Analytics** at the University of Pune, India.
-- 💡 currently learning about **Machine Learning** & **AI**
+- 💡 Currently learning about **Machine Learning** & **AI**
   
 
 
